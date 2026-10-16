@@ -1,0 +1,1 @@
+# Lab18---Python-cz.1-walidator-hasla
